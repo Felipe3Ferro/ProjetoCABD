@@ -1,0 +1,22 @@
+create table hospital(
+codigo bigint auto_increment,
+nome varchar (50) not null,
+cpf double not null,
+sexo varchar (20) not null,
+area varchar (20) not null,
+telefone int not null,
+salario double not null,
+primary key (codigo)
+)
+
+
+create table clinica(
+codigo bigint auto_increment,
+nome varchar (50) not null,
+cep double not null,
+sexo varchar (20) not null,
+convenio varchar (20) not null,
+telefone int not null,
+idade double not null,
+primary key (codigo)
+)
