@@ -1,13 +1,7 @@
-# CRUD-JAVA-WEB
-CRUD/CIDA com Java utilizando o gerenciador de dependências Apache Maven 
-
-- Java Web
-- Maven
-- JSP
+# CABD
+CABD com Java utilizando o gerenciador de dependências Apache NetBeans 
+- Java
 - SQL
-- JDBC
-- JUnit
-- Materialize
 
 ## Como usar:
 ### Windows, Linux e MacOS
