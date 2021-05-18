@@ -1,5 +1,5 @@
-# CABD
-CABD com Java utilizando o gerenciador de dependências Apache NetBeans 
+# CRUD
+CRUD com Java utilizando o gerenciador de dependências Apache NetBeans 
 - Java
 - SQL
 
